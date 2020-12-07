@@ -1,5 +1,4 @@
 # command-the-weather
-command-line interface delivering weather anywhere in the world
 
 ### How do I use this?
 
